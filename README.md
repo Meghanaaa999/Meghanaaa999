@@ -9,7 +9,7 @@
 
 ---
 
-## 🔨 Featured Projects
+## ✨ Featured Projects
 
 ### ✈️ VoyageAI — AI Trip Planner
 An AI-powered trip planning web application designed to help users plan personalized travel itineraries.
@@ -30,12 +30,6 @@ Web-based parking management system developed during my research internship.
 
 - **Stack:** HTML, CSS, JavaScript, PHP, MySQL
 - **Features:** Parking slot monitoring, vehicle-type-based allocation, automated parking fee calculation, entry-exit records.
-
-### 🎓 Scholarship Finder
-Full-stack web application that helps students discover scholarship opportunities.
-
-- **Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
-- **Features:** User authentication, scholarship search, application tracking, feedback, role-based admin management.
 
 ---
 
