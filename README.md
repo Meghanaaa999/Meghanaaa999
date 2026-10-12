@@ -5,18 +5,18 @@
 - Experienced in developing web applications, integrating databases, and building machine learning solutions through projects and internships.  
 - Seeking software engineering internship opportunities to apply technical skills and develop impactful solutions.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Meghanaaa999)
+[LinkedIn](www.linkedin.com/in/meghana-arthimalla-8187a4289) · [GitHub](https://github.com/Meghanaaa999)
 
 ---
 
 ## 🔨 Featured Projects
 
-### 🌐 Discord Clone
-MERN stack web application inspired by Discord.
+### ✈️ VoyageAI — AI Trip Planner
+An AI-powered trip planning web application designed to help users plan personalized travel itineraries.
 
-- **Stack:** React, Node.js, Express.js, MongoDB, JWT, Socket.IO
-- **Features:** Authentication, server and channel creation, group management, real-time messaging.
-- **Repository:** [Discord Clone](https://github.com/Meghanaaa999/Discord-Clone)
+- **Tech Stack:** React.js, Node.js, Express.js, Groq API
+- **Features:** AI-powered itinerary generation and personalized trip planning.
+- **Focus:** Full-stack development and API integration.
 
 ### 🌱 Crop Recommendation System
 Machine learning application for recommending suitable crops based on soil nutrients and environmental conditions.
@@ -53,8 +53,8 @@ Full-stack web application that helps students discover scholarship opportunitie
 
 ## 📜 Certifications
 
-- [Oracle Certified Professional: Java SE 17 Developer](YOUR_ORACLE_CERTIFICATE_URL) — Oracle, 2025
-- [MongoDB Certified Developer Associate](YOUR_MONGODB_CERTIFICATE_URL) — MongoDB, 2026
+- [Oracle Certified Professional: Java SE 17 Developer](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=E09B5830CA6F7AE4DF00A9D1E9C721125E829398B36F099BC3C3E05F7B44B9D5) — Oracle, 2025
+- [MongoDB Certified Developer Associate](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d50056fb-353d-4e42-8c86-a5b63d7d7f08-meghana-chowdary-arthimalla-9d871fb4-52a6-4591-aed7-b15167551ea6-certificate.pdf) — MongoDB, 2026
 
 ---
 
