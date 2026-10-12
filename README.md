@@ -1,4 +1,4 @@
-# Hi, I'm Meghana Chowdary👋
+# Hi, I'm Arthimalla Meghana Chowdary👋
 
 🎓 **B.Tech in CSE (Artificial Intelligence & Machine Learning) | SRM University-AP | Class of 2027 | CGPA: 7.47/10**  
 - **Aspiring Software Engineer** with experience in full-stack web development and a strong foundation in AI/ML.  
