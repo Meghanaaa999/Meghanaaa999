@@ -5,7 +5,7 @@
 - Experienced in developing web applications, integrating databases, and building machine learning solutions through projects and internships.  
 - Seeking software engineering internship opportunities to apply technical skills and develop impactful solutions.
 
-[LinkedIn](www.linkedin.com/in/meghana-arthimalla-8187a4289) · [GitHub](https://github.com/Meghanaaa999)
+[LinkedIn](https://www.linkedin.com/in/meghana-arthimalla-8187a4289/?isSelfProfile=true) · [GitHub](https://github.com/Meghanaaa999)
 
 ---
 
