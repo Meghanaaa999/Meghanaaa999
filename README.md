@@ -1,6 +1,6 @@
 # Hi, I'm Arthimalla Meghana Chowdary👋
 
-🎓 **B.Tech in CSE (Artificial Intelligence & Machine Learning) | SRM University-AP | Class of 2027 | CGPA: 7.47/10**  
+🎓 **B.Tech in CSE (Artificial Intelligence & Machine Learning) | SRM University-AP | Class of 2027**  
 - **Aspiring Software Engineer** with experience in full-stack web development and a strong foundation in AI/ML.  
 - Experienced in developing web applications, integrating databases, and building machine learning solutions through projects and internships.  
 - Seeking software engineering internship opportunities to apply technical skills and develop impactful solutions.
